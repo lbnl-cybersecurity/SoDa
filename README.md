@@ -24,9 +24,11 @@ conda env create -f environment.yml
 ```
 
 ## Basic Usage
-Once PySoda is installed, solar time series can be generated as follows.
 
-First, you'll need to create an object with the coordinates of interest
+Once PySoDa is installed, solar time series can be generated as follows.
+
+First, you'll need to input your authentication information in soda/config.py
+Then, you'll need to create an object with the coordinates of interest
 ```python
 import soda
 lat = 33.9533
@@ -85,8 +87,7 @@ If you find SoDa useful in your work, we kindly request that you cite the follow
 ```
 
 
-## Copyright
-*** Copyright Notice ***
+## Copyright Notice
 
 SoDa: An Irradiance-Based Synthetic Solar Data Generation Tool (SoDa)
 Copyright (c) 2021, National Rural Electric Cooperative
