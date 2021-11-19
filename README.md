@@ -85,5 +85,21 @@ If you find SoDa useful in your work, we kindly request that you cite the follow
 ```
 
 
-## License
+## Copyright
+*** Copyright Notice ***
+
+SoDa: An Irradiance-Based Synthetic Solar Data Generation Tool (SoDa)
+Copyright (c) 2021, National Rural Electric Cooperative
+Association and Arizona State University. All rights reserved.
+
+If you have questions about your rights to use or distribute this software,
+please contact Berkeley Lab's Intellectual Property Office at IPO@lbl.gov.
+
+NOTICE.  This Software was developed under funding from the U.S. Department
+of Energy and the U.S. Government consequently retains certain rights.  As
+such, the U.S. Government has been granted for itself and others acting on
+its behalf a paid-up, nonexclusive, irrevocable, worldwide license in the
+Software to reproduce, distribute copies to the public, prepare derivative
+works, and perform publicly and display publicly, and to permit others to do so.
+
 
